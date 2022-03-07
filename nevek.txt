@@ -1,0 +1,3 @@
+Franciaország;Párizs;Disneyland;disney.jpg;disney.txt
+USA;Lake Buena Vista;Hollywood Studios Disneyworld;studio.jpg;studio.txt
+Kína;Peking;Tiltott Város;tiltott.jpg;tiltott.txt
