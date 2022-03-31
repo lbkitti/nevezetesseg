@@ -1,0 +1,9 @@
+Franciaország;Párizs; Disneyland
+USA;Lake Buena Vista; Hollywood Studios Disneyworld
+Kína;Peking; Tiltott Város
+Magyarország;Budapest; Pál-völgyi-barlang
+Franciaország;Párizs; Eiffel-torony
+Magyarország;Somogy; Balaton
+Magyarország;Budapest; Széchenyi Lánchíd
+India;Agra; Taj Mahal
+Ausztrália;Sydney; Sydney-i Operaház
